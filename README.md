@@ -52,7 +52,4 @@ Each folder contains source code files related to the project or concept indicat
 To get started with these samples, clone the repository and navigate into the directory of the sample you're interested in. Most samples can be compiled using a C compiler like `gcc` or `clang`.
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name/path-to-sample
-gcc -o sample sample.c
-./sample
+git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/Monshou1251/C_practice)
